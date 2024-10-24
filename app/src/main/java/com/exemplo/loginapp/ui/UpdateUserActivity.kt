@@ -22,7 +22,6 @@ class UpdateUserActivity : AppCompatActivity() {
                 val user = User(
                     name = edtName.text.toString(),
                     email = edtEmail.text.toString(),
-                    profilePicture = "uri_of_profile_image" // Coloque aqui a lógica de URI para a imagem
                 )
                 userDao.updateUser(user)
             }
