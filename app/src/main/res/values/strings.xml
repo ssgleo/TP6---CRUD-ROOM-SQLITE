@@ -1,1 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="login">Login</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="edit_profile">Edit Profile</string>
+</resources>
 
